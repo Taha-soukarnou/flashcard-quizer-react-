@@ -22,7 +22,7 @@ An interactive, bilingual flashcard application designed to demonstrate modern R
 
 ---
 
-## 🇫🇷 Version Française
+## Version Française
 
 ### Aperçu du Projet
 Une application de cartes mémoire (flashcards) interactive et bilingue conçue pour démontrer les modèles React modernes. Les utilisateurs peuvent basculer entre des jeux de cartes en anglais et en français, naviguer à travers les questions et retourner les cartes pour révéler les réponses.
