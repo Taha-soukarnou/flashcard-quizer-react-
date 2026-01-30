@@ -54,7 +54,7 @@ Une application de cartes mémoire (flashcards) interactive et bilingue conçue 
 
 ## Flashcard Quizer
 
-** [Live Demo](https://flashcard-quizer.vercel.app/)**
+**[Live Demo](https://flashcard-quizer.vercel.app/)**
 
 
 
