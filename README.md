@@ -52,6 +52,9 @@ Une application de cartes mémoire (flashcards) interactive et bilingue conçue 
 
 <img width="1483" height="822" alt="Capture d&#39;écran 2026-01-29 164658" src="https://github.com/user-attachments/assets/c61ae0be-70f1-4971-89d3-534712860022" />
 
+## Flashcard Quizer
+
+** [Live Demo](https://flashcard-quizer.vercel.app/)**
 
 
 
